@@ -13,8 +13,8 @@
   <strong>Hello World!</strong>
 </p>
 
-<div align="center">I'm studying Computer Science, always looking for quality, clean code, and best practices.</div>
-<div align="center">🧠 Open for new ideas and inspirations 🧠</div>
+<p align="center">I'm studying Computer Science, always looking for quality, clean code, and best practices.</p>
+<p align="center">🧠 Open for new ideas and inspirations 🧠</p>
 
 <p align="center"> <strong>Languages and Tools:</strong></p>
 
