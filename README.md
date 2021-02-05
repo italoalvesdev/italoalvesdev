@@ -10,16 +10,16 @@
   </a>
 </div>
 
-<p align="center">
+<div align="center">
   <strong>Hello World!</strong>
-</p>
+</div>
 
 <p align="center">I'm studying Computer Science, always looking for quality, clean code, and best practices.</p>
 <p align="center">🧠 Open for new ideas and inspirations 🧠</p>
 
 <p align="center"> <strong>Languages and Tools:</strong></p>
 
-<p align="center">
+<div align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
@@ -29,13 +29,14 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
-</p>
+</div>
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Italo-Alves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Italo Alves" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Italo-Alves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Italo        Alves" />
+</div>
+<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Alves&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
