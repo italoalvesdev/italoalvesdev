@@ -31,9 +31,11 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 </p>
 
+<p align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=Italo-Alves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Alves&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MianJawadAhmad/github-readme-stats)
+</p>
 
 [![GitHub ItaloAlves](https://img.shields.io/github/followers/ItaloAlves?label=follow&style=social)](https://github.com/Italo-Alves)
 
