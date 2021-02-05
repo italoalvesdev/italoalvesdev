@@ -6,8 +6,7 @@
   </a>
   
   [![Linkedin: Italo Alves](https://img.shields.io/badge/-ItaloAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-alves-48b9b897)](https://www.linkedin.com/in/italo-alves-48b9b897/)
-  
-  [![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/mianjawadahmad/)
+ 
   <a href="mailto:italo8883@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:italo8883@gmail.com" alt="Gmail Badge" />
   </a>
