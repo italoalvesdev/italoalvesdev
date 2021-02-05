@@ -9,3 +9,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:italo8883@gmail.com" alt="Gmail Badge" />
   </a>
 </p>
+
+<p align="center">
+  <strong>Hello World!</strong>
+</p>
+
+<p align="center">I'm studying Computer Science, always looking for quality, clean code, and best practices.</p>
+<p align="center">🧠 Open for new ideas and inspirations 🧠</p>
