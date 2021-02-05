@@ -5,8 +5,6 @@
     <img src="https://img.shields.io/badge/ItaloAlves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-alves-48b9b897" alt="Linkedin Badge" />
   </a>
   
-  [![Linkedin: Italo Alves](https://img.shields.io/badge/-ItaloAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-alves-48b9b897)](https://www.linkedin.com/in/italo-alves-48b9b897/)
- 
   <a href="mailto:italo8883@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:italo8883@gmail.com" alt="Gmail Badge" />
   </a>
@@ -37,8 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Alves&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MianJawadAhmad/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=italo-alves&color=blue&label=Profile+Views)
-
+[![GitHub ItaloAlves](https://img.shields.io/github/followers/ItaloAlves?label=follow&style=social)](https://github.com/ItaloAlves)
 
 <!--
 **Italo-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
