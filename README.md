@@ -1,6 +1,6 @@
 ### Italo Alves :rocket:
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/italo-alves-48b9b897/" target="_blank" alt="Linkedin" rel="noopener">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-alves-48b9b897" alt="Linkedin Badge" />
   </a>
@@ -8,7 +8,7 @@
   <a href="mailto:italo8883@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:italo8883@gmail.com" alt="Gmail Badge" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <strong>Hello World!</strong>
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=Italo-Alves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Italo Alves" />
 </p>
-  <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Alves&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
