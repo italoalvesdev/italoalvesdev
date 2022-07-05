@@ -31,11 +31,12 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=italoalvesdev&show_icons=true&hide=prs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Italo Alves Github Stats" />
 </p> -->
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoalvesdev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=italoalvesdev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Italo Alves's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoalvesdev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoalvesdev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoalvesdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoalvesdev&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Italo Alves Github Top Langs" /> 
