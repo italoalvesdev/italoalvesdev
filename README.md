@@ -24,7 +24,7 @@ const italo = {
   role: "Front-end Developer",
   education: "Computer Science",
   focus: ["Clean Code", "Best Practices", "Performance"],
-  currentlyLearning: ["System Design", "Advanced TypeScript"],
+  currentlyLearning: ["AI", "Playwright Headless"],
   openTo: "New ideas, collaborations & opportunities",
 };
 ```
